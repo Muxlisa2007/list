@@ -1,0 +1,13 @@
+fanlar = []
+fanlar.append("Algebra,")
+fanlar.append("Geometriya,")
+fanlar.append("Fizika,")
+fanlar.append("Kimyo,")
+fanlar.append("Informayika,")
+fanlar.append("Geografiya,")
+fanlar.append("Biologiya,")
+fanlar.append("Iqtisod,")
+fanlar.append("Tarix,")
+fanlar.append("Rus tili,")
+fanlar.append("Inglis tili,")
+print(*fanlar)
